@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**csnienie/csnienie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adi_One/Adi_One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
